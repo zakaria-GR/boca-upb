@@ -1,0 +1,45 @@
+{
+  "ADS": [
+     {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads": "",
+      "main_ads_banner": "588986282716260_588986729382882",
+      "main_ads_intertitial": "588986282716260_588986819382873",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+	  "main_ads_native": "588986282716260_819031389711747",
+      "backup_ads_native": "",
+      "interstitial_counter": "0",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "Toca Life World , Gacha Life",
+      "show_category": "1"
+    }
+  ],
+  "DATA": [
+    
+    {
+      "title_search": "nature",
+      "image_url": "https://archive.org/download/dc22197a7643ff7ecc2eed92aa0892a5/dc22197a7643ff7ecc2eed92aa0892a5.jpg"
+    },
+    {
+      "title_search": "chill",
+      "image_url": "https://ia902501.us.archive.org/1/items/fkwryb-muuae-1b-i-6/FKwrybMUUAE1bI6.jpg"
+    },
+    {
+      "title_search": "art",
+      "image_url": "https://ia802508.us.archive.org/22/items/th-hm-l-5j-jl-cx-c/__ia_thumb.jpg"
+    },
+    {
+      "title_search": "space",
+      "image_url": "https://ia601406.us.archive.org/3/items/5487a-135969229.570acbfe-9fb-4c/5487a135969229.570acbfe9fb4c.png"
+    }
+  ]
+}
